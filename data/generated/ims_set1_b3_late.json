@@ -1,0 +1,9 @@
+{
+  "source": "data/raw/bearing/1st_test/1st_test",
+  "channel": 4,
+  "start_file": 2100,
+  "files_used": 49,
+  "first_file": "2003.11.24.20.57.32",
+  "samples": 1000000,
+  "dtype": "<f8"
+}
