@@ -1,0 +1,13 @@
+Sun Nov 22 01:05:11 MSK 2026
+Linux LAPTOP-UBI663T8 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+CPU(s):                               16
+Model name:                           AMD Ryzen 7 5700U with Radeon Graphics
+Thread(s) per core:                   2
+Hypervisor vendor:                    Microsoft
+L1d cache:                            256 KiB (8 instances)
+L2 cache:                             4 MiB (8 instances)
+L3 cache:                             4 MiB (1 instance)
+gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+NASM version 2.16.01
+C flags: -std=c11 -g -ffp-contract=off (O0/O2/O3 per binary)
+RUNS=30 DATA=data/generated/ims_set1_b3_late.bin CPU_PIN=none THRESHOLD=1.0
