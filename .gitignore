@@ -1,19 +1,14 @@
-# Python
 __pycache__/
 *.pyc
 venv/
 .venv/
-
-# Compiled files
 *.o
+*.d
 *.out
 *.exe
-
-# IDE
 .vscode/
-
-# Sensitive files
 .env
-.env.*data/raw/
-data/raw/
+.env.*
 build/
+data/raw/
+data/generated/*.bin
